@@ -1,7 +1,7 @@
 ## hello :-)
 cs @ uwaterloo
 
-currently working at ECCC
+previously at ECCC
 
 
 <!--
